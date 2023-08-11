@@ -67,7 +67,7 @@ _The installation is fast (less than 2 mins)_
     
 2. Edit your new script
 
-4. Then, copy the [script.js]() from here
+4. Then, copy the [script.js](https://github.com/Elxss/MegaUp.net-Auto-Downloader/blob/main/MegaUp.net%20AUTO-DL.js) from here
     ```js
     // ==UserScript==
     // @name         MegaUp.net AUTO-DL
