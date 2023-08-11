@@ -35,7 +35,7 @@
 </details>
 
 ### About The Project
-![Demo](https://raw.githubusercontent.com/Elxss/Server-Startup-Telegram-Alert/main/img/demo.gif)
+![Demo](https://raw.githubusercontent.com/Elxss/MegaUp.net-Auto-Downloader/main/demo/demo.gif)
 
 You want to install something trought MegaUp ?
 But you don't want it to do it click by click
