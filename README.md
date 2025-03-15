@@ -11,7 +11,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader/blob/main/img/demo.png">View Demo</a>
+    <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader/blob/main/demo/demo.gif">View Demo</a>
     -
     <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader/issues">Report Bug</a>
     ·
