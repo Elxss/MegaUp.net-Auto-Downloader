@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Elxss/Server-Startup-Telegram-Alert">
+  <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader">
     <img src="https://raw.githubusercontent.com/Elxss/Elxss.github.io/main/src/img/logo.png" alt="Logo" width="300" height="300">
   </a>
 
@@ -11,11 +11,11 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/Elxss/Server-Startup-Telegram-Alert/blob/main/img/demo.png">View Demo</a>
+    <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader/blob/main/img/demo.png">View Demo</a>
     -
-    <a href="https://github.com/Elxss/Server-Startup-Telegram-Alert/issues">Report Bug</a>
+    <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Elxss/Server-Startup-Telegram-Alert/issues">Request Feature</a>
+    <a href="https://github.com/Elxss/MegaUp.net-Auto-Downloader/issues">Request Feature</a>
   </p>
 </div>
 
@@ -37,16 +37,15 @@
 ### About The Project
 ![Demo](https://raw.githubusercontent.com/Elxss/MegaUp.net-Auto-Downloader/main/demo/demo.gif)
 
+Finally back after a long time, i'm back for the best !
+Now that this project is finished, I'll maintain it up to date.
+
 You want to install something trought MegaUp ?
 But you don't want it to do it click by click
 
 This script is made for you if you are trying to install multiple files from the MegaUp :)
-Like from IGG Games using my script
 
-At the moment the script works by waiting 10 seconds and then look for the button to start the download and if the button is not available it means that the download started
-
-At the moment this script is kinda crapy 
-I am gonna make it better
+After all this time i Finally wrote it the good way
 
 The whole setup of everything should take less than 2mins.
 
@@ -70,13 +69,13 @@ _The installation is fast (less than 2 mins)_
 4. Then, copy the [script.js](https://github.com/Elxss/MegaUp.net-Auto-Downloader/blob/main/MegaUp.net%20AUTO-DL.js) from here
     ```js
     // ==UserScript==
-    // @name         MegaUp.net AUTO-DL
-    // @version      0.1
+    // @name         MegaUp.net Auto Downloader
+    // @version      1.1
     // @description  Auto DL script for MegaUp.net
     // @author       Elxss
     // @match        *://*.megaup.net/*
     // @homepage     https://elxss.github.io/
-    // @icon         https://avatars.githubusercontent.com/u/121466211?s=400&   u=e6018d225103ed4be48117d0341d74a212d0b607&v=4
+    // @icon         https://avatars.githubusercontent.com/u/121466211?s=400&u=e6018d225103ed4be48117d0341d74a212d0b607&v=4
     // @grant        none
     // @run-at       document-start
     // ==/UserScript==
@@ -94,14 +93,14 @@ _The installation is fast (less than 2 mins)_
 ## Roadmap
 
 - [x] Make it work
-- [ ] Make it good
+- [x] Make it good
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Elxss - discord: Eliasss#8886 - elxssgitcontact@gmail.com - website: [elxss.github.io](https://elxss.github.io/)
+Elxss - discord: eliasss8886_ - elxssgitcontact@gmail.com - website: [elxss.github.io](https://elxss.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
