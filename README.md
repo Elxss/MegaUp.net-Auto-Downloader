@@ -34,6 +34,9 @@
   </ol>
 </details>
 
+LAST UPDATE : 14/04/2025
+STATUS : WORKING !
+
 ### About The Project
 ![Demo](https://raw.githubusercontent.com/Elxss/MegaUp.net-Auto-Downloader/main/demo/demo.gif)
 
