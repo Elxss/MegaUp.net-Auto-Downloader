@@ -13,7 +13,7 @@
 // Last Updated and Tested the 14/04/2025
 // I Hope you enjoy it :)
 
-console.log("[AUTO-DL] Loaded ! Version 1.1 If it doesn't work anymore let me know :)");
+console.log("[AUTO-DL] Loaded ! Version 1.2 If it doesn't work anymore let me know :)");
 
 (function() {
     'use strict';
